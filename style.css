@@ -14,3 +14,6 @@
 .bi-list{
   font-size: 35px;
 }
+.carousel-item img{
+  height: 500px;
+}
